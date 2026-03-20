@@ -71,6 +71,21 @@ export const sections = [
     ]
   },
   {
+    id: 'cases-hangar',
+    title: 'Кейс: монтаж ангара',
+    content: 'Производство и монтаж каркасного ангара под ключ. Металлоконструкции собственного изготовления, обшивка профлистом, ворота, окна — всё силами нашей бригады.',
+    gallery: [
+      {
+        url: "https://cdn.poehali.dev/projects/a63b3c02-bde7-4af9-9d42-0886bcd4e05e/bucket/62542e74-23b4-460e-8e20-1c4ed0a01a80.jpg",
+        caption: "Интерьер ангара — стальные фермы и кровля из профлиста"
+      },
+      {
+        url: "https://cdn.poehali.dev/projects/a63b3c02-bde7-4af9-9d42-0886bcd4e05e/bucket/25628587-87af-4d47-b0f8-0e022f00ba3d.jpg",
+        caption: "Фасад готового ангара — тёмный профлист, ворота, окна"
+      }
+    ]
+  },
+  {
     id: 'testimonials',
     title: 'Говорят клиенты',
     testimonials: [
