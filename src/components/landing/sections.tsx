@@ -79,7 +79,7 @@ export const sections = [
     showButton: true,
     buttonText: 'Оставить заявку',
     contacts: {
-      phone: "+7 (999) 000-00-00",
+      phone: "+7 (919) 266-88-88",
       email: "info@sk-vysota.ru",
       address: "г. Москва, ул. Промышленная, 12"
     }
