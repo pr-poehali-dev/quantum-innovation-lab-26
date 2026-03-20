@@ -3,17 +3,7 @@ import { Badge } from "@/components/ui/badge"
 export const sections = [
   {
     id: 'hero',
-    subtitle: (
-      <div className="flex flex-col items-start gap-4">
-        <img
-          src="https://cdn.poehali.dev/projects/a63b3c02-bde7-4af9-9d42-0886bcd4e05e/bucket/adab8520-a627-4671-b76b-86e439a1feb9.jpg"
-          alt="СК ВЫСОТА"
-          className="h-24 md:h-32 w-auto object-contain"
-          style={{ filter: 'drop-shadow(0 2px 8px rgba(0,0,0,0.5))' }}
-        />
-        <Badge variant="outline" className="text-white border-white/40 bg-white/5 text-sm px-4 py-1">Производство и монтаж металлоконструкций</Badge>
-      </div>
-    ),
+    subtitle: <Badge variant="outline" className="text-white border-white/40 bg-white/5 text-sm px-4 py-1">Производство и монтаж металлоконструкций</Badge>,
     title: "СК ВЫСОТА. Строим надёжно.",
     content: "Ангары, резервуары, стальные заборы — под ключ. Проектируем, производим, монтируем сами. Без посредников.",
     showButton: true,
