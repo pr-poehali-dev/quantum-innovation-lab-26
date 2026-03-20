@@ -66,7 +66,7 @@ export const sections = [
       },
       {
         url: "https://cdn.poehali.dev/projects/a63b3c02-bde7-4af9-9d42-0886bcd4e05e/bucket/80adfb58-d082-4043-bf0a-d4b1bdc4ed96.jpg",
-        caption: "Монтаж корпуса РВС методом подращивания"
+        caption: "Монтаж корпуса РВС"
       }
     ]
   },
