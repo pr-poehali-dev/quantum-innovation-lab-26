@@ -18,6 +18,11 @@ export interface ContactInfo {
   address: string
 }
 
+export interface GalleryImage {
+  url: string
+  caption: string
+}
+
 export interface Section {
   id: string
   title: string
@@ -28,6 +33,7 @@ export interface Section {
   features?: FeatureCard[]
   testimonials?: Testimonial[]
   contacts?: ContactInfo
+  gallery?: GalleryImage[]
 }
 
 export interface SectionProps extends Section {

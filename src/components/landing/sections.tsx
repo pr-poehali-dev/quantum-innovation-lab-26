@@ -52,6 +52,25 @@ export const sections = [
     ]
   },
   {
+    id: 'cases',
+    title: 'Кейс: монтаж РВС',
+    content: 'Производство и монтаж вертикальных стальных резервуаров для хранения битума. Полный цикл — от изготовления корпуса до запуска систем разогрева и подачи.',
+    gallery: [
+      {
+        url: "https://cdn.poehali.dev/projects/a63b3c02-bde7-4af9-9d42-0886bcd4e05e/bucket/4d3d49c8-6aaa-4328-96a9-a174fee348a5.jpg",
+        caption: "Нефтебаза — резервуары РВС с битумовозами на объекте"
+      },
+      {
+        url: "https://cdn.poehali.dev/projects/a63b3c02-bde7-4af9-9d42-0886bcd4e05e/bucket/6ccc764a-a5c7-4a2e-a1e0-300dbb2c7565.jpg",
+        caption: "Группа резервуаров РВС — вид с высоты объекта"
+      },
+      {
+        url: "https://cdn.poehali.dev/projects/a63b3c02-bde7-4af9-9d42-0886bcd4e05e/bucket/80adfb58-d082-4043-bf0a-d4b1bdc4ed96.jpg",
+        caption: "Монтаж корпуса РВС методом подращивания"
+      }
+    ]
+  },
+  {
     id: 'testimonials',
     title: 'Говорят клиенты',
     testimonials: [
